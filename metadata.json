@@ -1,0 +1,5 @@
+{
+  "name": "Flappy GenAI",
+  "description": "A polished Flappy Bird clone featuring an AI Coach powered by Gemini 2.5 Flash that roasts or praises your performance.",
+  "requestFramePermissions": []
+}
